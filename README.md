@@ -1,2 +1,2 @@
 # Test
-This project uses the following license: .
+This project uses the following license: <LICENSE>.
